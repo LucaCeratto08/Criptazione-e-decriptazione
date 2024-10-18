@@ -1,0 +1,7 @@
+C:\Users\cerat\Documents\file\AA. personali\Software\Criptazione_e_decriptazione\Criptazione_e_decriptazione\bin\Debug\Criptazione_e_decriptazione.exe.config
+C:\Users\cerat\Documents\file\AA. personali\Software\Criptazione_e_decriptazione\Criptazione_e_decriptazione\bin\Debug\Criptazione_e_decriptazione.exe
+C:\Users\cerat\Documents\file\AA. personali\Software\Criptazione_e_decriptazione\Criptazione_e_decriptazione\bin\Debug\Criptazione_e_decriptazione.pdb
+C:\Users\cerat\Documents\file\AA. personali\Software\Criptazione_e_decriptazione\Criptazione_e_decriptazione\obj\Debug\Criptazione_e_decriptazione.csproj.AssemblyReference.cache
+C:\Users\cerat\Documents\file\AA. personali\Software\Criptazione_e_decriptazione\Criptazione_e_decriptazione\obj\Debug\Criptazione_e_decriptazione.csproj.CoreCompileInputs.cache
+C:\Users\cerat\Documents\file\AA. personali\Software\Criptazione_e_decriptazione\Criptazione_e_decriptazione\obj\Debug\Criptazione_e_decriptazione.exe
+C:\Users\cerat\Documents\file\AA. personali\Software\Criptazione_e_decriptazione\Criptazione_e_decriptazione\obj\Debug\Criptazione_e_decriptazione.pdb
